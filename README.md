@@ -1,6 +1,6 @@
 # Hi, I'm Kevin 👋
 
-Senior Computer Science student at the University of St. Thomas (graduating May 2027 GPA:3.83), focused on **cloud security, detection engineering, and security risk (GRC)**.
+Senior Computer Science student at the University of St. Thomas (graduating May 2027 | GPA:3.83), focused on **cloud security, detection engineering, and security risk (GRC)**.
 
 Currently a **SOC Analyst (Information Security Student Worker)** at St. Thomas ITS: triaging Microsoft Defender XDR alerts, investigating phishing and BEC, and reviewing risky sign-ins in Entra ID.
 
