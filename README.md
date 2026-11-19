@@ -13,7 +13,7 @@ Currently a **SOC Analyst (Information Security Student Worker)** at St. Thomas 
 Simulate → detect → respond: running MITRE ATT&CK techniques on an Azure Windows VM, collecting Sysmon telemetry into Microsoft Sentinel, and writing KQL detections. Write-ups so far cover a cost audit that traced a hidden threat-intel pipeline, least-privilege automation, and compensating controls.
 
 ### 📂 Other Projects
-- [Phishing Domain Detector](LINK): CLI tool for spotting phishing and typosquat domains.
+- [Phishing Domain Detector]((https://github.com/kMendez05/PhishingDomainDetector)): CLI tool for spotting phishing and typosquat domains.
 - Banking System (CS50): Flask simulation of authentication, transactions, and account management.
 
 ### 🔧 Tools & Skills
