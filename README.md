@@ -21,5 +21,5 @@ Simulate → detect → respond: running MITRE ATT&CK techniques on an Azure Win
 **Cloud & scripting:** Azure · Azure CLI · PowerShell · Python · SQL · Git
 
 ### 📫 Connect
-- [LinkedIn](https://linkedin.com/in/kevin-mendez-765987264/)
+- [LinkedIn](https://www.linkedin.com/in/kevin-mendez-rivera-765987264/)
 - kevin.j.mendezrivera@gmail.com
